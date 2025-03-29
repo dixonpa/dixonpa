@@ -21,13 +21,6 @@
 
 ---
 
-## 📊 Mis estadísticas en GitHub:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dixonpa-github&show_icons=true&theme=dark)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dixonpa-github&layout=compact&theme=dark)
-
----
 
 ## 📫 Conéctate conmigo:
 
