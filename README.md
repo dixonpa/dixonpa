@@ -1,4 +1,3 @@
-![Data Scientist]
 
 # 👋 ¡Hola! Soy Paulo Cesar Alvarez Alvaro  
 ### Científico de Datos Junior | Ingeniero Geofísico | Apasionado por la IA y el Análisis de Datos | Java Backend  
