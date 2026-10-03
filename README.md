@@ -1,8 +1,8 @@
 ## Hi, I'm Paulo Alvarez 👋
 
-**Junior Data Scientist & Data Analyst** · Geophysical Engineer
+**Junior Data Scientist & Data Analyst** · B.S. in Geophysical Engineering
 
-I'm a geophysical engineer who moved into data. I like taking a business problem, exploring the data behind it and building a model that helps make a decision. I also have experience as a Java backend developer.
+I studied Geophysical Engineering (B.S.) and moved into data. I like taking a business problem, exploring the data behind it and building a model that helps make a decision. I also have experience as a Java backend developer.
 
 ### Projects
 
@@ -37,9 +37,9 @@ I'm a geophysical engineer who moved into data. I like taking a business problem
 
 <br>
 
-**Data Scientist y Data Analyst Junior** · Ingeniero Geofísico
+**Data Scientist y Data Analyst Junior** · Bachiller en Ingeniería Geofísica
 
-Soy ingeniero geofísico y me pasé al mundo de los datos. Me gusta tomar un problema de negocio, explorar los datos y construir un modelo que ayude a tomar una decisión. También tengo experiencia como desarrollador backend en Java.
+Soy bachiller en Ingeniería Geofísica y me pasé al mundo de los datos. Me gusta tomar un problema de negocio, explorar los datos y construir un modelo que ayude a tomar una decisión. También tengo experiencia como desarrollador backend en Java.
 
 **Proyectos:**
 
